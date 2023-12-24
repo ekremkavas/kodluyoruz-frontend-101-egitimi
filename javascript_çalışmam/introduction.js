@@ -29,3 +29,9 @@ console.log("hello");
 // let isMarried = true;
 
 // console.log(firstName, lastName, country, city, age, isMarried);
+
+let str = "ekrem",
+  bull = "true",
+  name3 = null;
+undefined;
+console.log(str, bull, name3, undefined);
